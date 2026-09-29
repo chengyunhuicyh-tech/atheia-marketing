@@ -6,6 +6,7 @@
 > - **October is a soft launch through Stories only.** No feed posts and no ads for the new colours until the model photos are ready.
 > - **1 Nov is the official launch**, with the first feed post and ads.
 > - **No filming of BFT members.** BFT is for selling and capturing contacts only.
+> - **Existing customers get an email on soft-launch day**, combining the new colours with a reminder to use their gift credit. Email copy is in `plans/2026-10-new-colourways-emails.md`.
 
 ---
 
@@ -34,7 +35,7 @@
 | **Instagram feed post** | ❌ Not for the new colours | ✅ First feed post: hero image |
 | **Meta ads for the new colours** | ❌ | ✅ Start |
 | **Existing retargeting** | ✅ Keeps running as normal (existing creative) | Swap to new-colour creative |
-| **Email** | Optional: 1 short plain-text broadcast (see below) | ✅ Broadcast |
+| **Email** | ✅ **Existing customers only:** new colours + gift-credit reminder | ✅ Whole list (+ credit P.S. for customers who haven't used it) |
 | **BFT (18 Oct)** | ✅ Sell in person + capture contacts | — |
 
 **Why this works:**
@@ -53,7 +54,7 @@
 1. **Keep existing retargeting running in October.** "No ads" should mean *no new ads for the new colours*, not pausing everything. Retargeting is where conversions actually happen (learning #3). Switching it off for 3 weeks would cost more than the colours gain. It keeps running at the normal level with existing creative until 1 Nov.
 2. **Pin the launch Stories to a Highlight (e.g. "NEW 🤍").** Stories vanish after 24h, and there's no feed post. Without a Highlight, anyone visiting the profile (including from BFT) won't see the new colours at all.
 3. **Every Story links to the product page, never the profile or homepage** (learning #2). Use the link sticker on each colour.
-4. **Send one short plain-text email to the list on listing day (optional but recommended).** Email is text-led, so flat shots matter less, and the list is warm. If you'd rather keep all "official" comms for November, skip it. With a ~2% open rate, the stakes are low either way.
+4. **Email existing customers on listing day: new colours + their gift credit.** Customers already own the cut, so flat shots are enough for them. The credit gives them a reason to buy now, and the new colours are what to spend it on. It works like a discount only for people who already trust you, while the public price stays full. The rest of the list (mostly subscribers who joined for 10% off) hears on 1 Nov.
 5. **Treat 1 Nov as the launch, not a photo update.** Don't mention the photos being new. Lead with the product: three new colours, 50 of each, one tank / two moods.
 
 ---
@@ -77,13 +78,14 @@
 |---|---|
 | **by Wed 7 Oct** | Stock QC'd and counted by size. Flat shots taken (**check Chiffon Yellow looks right on camera**). BFT stock set aside |
 | **Wed 7 – Fri 9 Oct** | Teaser Stories |
-| **Sat 10 Oct** | **Soft launch:** listed + launch Story sequence + Highlight. Free shipping, no minimum, for 48h |
+| **Sat 10 Oct** | **Soft launch:** listed · **9am customer email (new colours + gift credit)** · 10am launch Story sequence + Highlight · free shipping, no minimum, for 48h |
 | **11 – 17 Oct** | Daily Stories |
 | **Mon 12 Oct** | BFT asset pack to BFT |
 | **Sun 18 Oct** | **BFT pop-up:** sell + capture |
 | **Sun 25 Oct** | Photoshoot + BTS Stories (models and set only) |
 | **Thu 29 Oct** | Edit deadline. Model photos into PDPs |
-| **Sun 1 Nov** | **Official launch:** feed post, carousel, Reel, email, ads start, free shipping with no minimum for 48h |
+| **Sun 1 Nov** | **Official launch:** feed post, carousel, Reel, email to the whole list (credit P.S. for unredeemed customers), ads start, free shipping with no minimum for 48h |
+| **[expiry − 4 days]** | *Only if the credit expires:* last reminder to customers who haven't used it |
 | **Mon 9 – Thu 12 Nov** | Quiet period (11.11 discount noise): Stories only, minimum ad spend |
 | **Sun 15 – Sun 29 Nov** | Reviews + low-stock push |
 
@@ -111,6 +113,11 @@
   - If they're separate products, add *"Fit shown in [existing colour]: same cut, same fabric."*
   - Add *"Limited run: 50 made"* to each new variant.
 - [ ] **Check the plumbing** (learning #5): pixel firing on the new variants, mobile PDP speed. This matters even without new ads, because the pixel builds the audience you'll retarget from 1 Nov.
+- [ ] **Customer email set-up:**
+  - Build a Shopify segment of **existing customers with unused gift credit**.
+  - Confirm the credit amount and expiry.
+  - **Place a test order using the credit on a new-colour variant.** If redeeming it is confusing, the email won't convert.
+  - Add UTMs to the email links (`utm_campaign=newcolours_oct26_customers`) so you can see credit redemptions and orders from the email.
 
 **Chiffon Yellow fallback:** if the yellow doesn't photograph well flat, soft-launch **Glacier Blue + the tank** on 10 Oct. Bring the yellow to BFT in person, and put it online on 1 Nov with the model photos. That also gives the official launch a genuinely new colour.
 
@@ -138,7 +145,7 @@
 
 - [ ] Save all 7 to a **"NEW 🤍" Highlight** and pin it first.
 - [ ] Update the bio link to the new-colours collection.
-- [ ] **Optional email broadcast (plain-text founder voice):** *"We made 50 of each. Here they are."* 3–4 lines + PDP links.
+- [ ] **9am: customer email** (existing customers only): new colours + gift-credit reminder. It goes out an hour before the Stories so customers genuinely hear first. Copy is in `plans/2026-10-new-colourways-emails.md` (Email 1).
 - [ ] Free shipping with no minimum until **Mon 12 Oct, 10am**, then restore the $50 minimum.
 - [ ] Hand-written note in every order: *"Send us a photo in it and we'll feature you 🤍"*.
 
@@ -176,7 +183,7 @@ About 4–5 Stories a week, rotating these:
 - [ ] **Carousel:** per-colour model shots → *"One tank, two moods"* → October customer reviews/quotes → stock left (if true).
 - [ ] **Reel:** from the shoot's vertical clips (CapCut).
 - [ ] **Stories:** new frames with model photos, and **replace the flat lays in the Highlight** with them.
-- [ ] **Email broadcast:** *"Three new colours, only 50 of each."* Plain-text founder voice + PDP links + honest stock left.
+- [ ] **Email to the whole list:** *"Three new colours, only 50 of each."* Plain-text founder voice + PDP links + honest stock left. **Customers who haven't used their credit get a version with a credit P.S.** (Email 2 in the email doc).
 - [ ] **Free shipping with no minimum, 48h** (1–3 Nov).
 - [ ] **Meta ads start:**
   - **Retargeting:** new-colour creative on model, reusing the winning Crop Tee *format* (learning #4). Conversions → PDP.
@@ -214,7 +221,7 @@ With no member clips and no creator, **this shoot is the only on-body photo and 
 | Type | Channel | Oct (soft launch) | Nov (official launch) |
 |---|---|---|---|
 | **Owned** | Shopify (PDPs) | Listed with flat shots + existing fit shots | Model photos |
-| **Owned** | Email | Optional 1 plain-text broadcast (10 Oct) | 1 broadcast (1 Nov). Optional 2nd late Nov only if BF runs |
+| **Owned** | Email | Existing customers: new colours + gift credit (10 Oct) | Whole list (1 Nov), with a credit P.S. for unredeemed customers · credit expiry reminder if relevant · optional late-Nov email only if BF runs |
 | **Owned** | Email flows | New colours appear in Welcome / Abandoned cart | Swap in model images |
 | **Owned** | Judge.me | Review requests on Oct + BFT orders | Reviews power the launch + mid-Nov push |
 | **Rented** | IG Stories + Highlight | ✅ Main channel | ✅ |
@@ -273,7 +280,8 @@ Everything else amplifies these 5.
 | Time | Founder A — Launch Ops | Founder B — Customer & Content |
 |---|---|---|
 | 8:30am | Variants visible, free-ship rule on, pixel check, BFT stock held back | 7-frame Story sequence ready |
-| 10:00am | (Optional) broadcast sends | Stories live, Highlight created, bio link updated |
+| 9:00am | Customer email sends (new colours + credit) | — |
+| 10:00am | Test a credit redemption end-to-end if not done already | Stories live, Highlight created, bio link updated |
 | 10–1pm | Watch orders, checkout, stock by size | Reply to DMs and poll responses |
 | Afternoon | Link-sticker taps vs orders | Hand-written notes for first orders |
 | Mon 12 Oct, 10am | Free-ship rule off (restore the $50 minimum) | "Free shipping ends today" Story at 8am |
@@ -304,7 +312,7 @@ Everything else amplifies these 5.
 2. **50 per colourway (150 total)?**
 3. **Fabric per piece**: Long Line Bra on BreezeForm or BreezeLite? Tank on BreezeCool?
 4. **Black Friday: sale or not?**
-5. **Email on 10 Oct: send or hold for 1 Nov?**
+5. **Gift credit details:** amount (same for everyone?), expiry date, how it was issued (Shopify store credit or gift card code), and how many customers have it.
 
 ---
 
@@ -314,7 +322,7 @@ Everything else amplifies these 5.
 |---|---|
 | Teaser + 7-frame launch Story sequence + October daily Stories | `social` |
 | PDP copy for the new variants (fabric-first, "Limited run: 50 made") | `copywriting` |
-| Soft launch (optional) + official launch email | `emails` |
+| Customer email (10 Oct) + official launch email (1 Nov) + credit expiry reminder: **drafted**, see `plans/2026-10-new-colourways-emails.md` | `emails` ✅ |
 | 1 Nov feed post, carousel captions, Reel script | `social` |
 | Meta ad creative for 1 Nov (on-model retargeting + cold CPC test) | `ad-creative` + `ads` |
 | Add Long Line Bra + Tank + new colourways to the context file | `product-marketing` |

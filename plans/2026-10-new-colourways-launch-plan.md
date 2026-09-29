@@ -1,5 +1,12 @@
 # New Colourways Launch Plan — Oct–Nov 2026
 
+> **🔗 Notion is now the source of truth for October (updated 29 Sep):** [📅 October 2026 — Month Overview](https://app.notion.com/p/3ea7e5ebbcd6819f870cd6b1825f3c93).
+> Corrections applied here from the Notion Hub:
+> - Both products are **BreezeLite**: the Cross-back Longline Bra and the Essential Tank. **No cooling language**, which is reserved for BreezeCool.
+> - **No ads in October.** Meta restarts on 1 Nov at S$8–10/day.
+> - The BFT member perk is **BFTFAM15**.
+> - The credit email goes only to **email-subscribed** anniversary-credit holders, with a **20% holdout**.
+
 > Built on `.agents/product-marketing.md` (hooks, channel doctrine, hard-won learnings), using the **launch** skill (soft launch → official launch, ORB channels) and **marketing-psychology** (honest scarcity, social proof), in the **monthly-plan** format so it pastes into the 📅 October / November Month Overviews.
 >
 > **v4, updated 29 Sep.**
@@ -14,7 +21,7 @@
 
 | Item | Detail |
 |---|---|
-| **Long Line Bra** | 2 new colourways: **Glacier Blue** and **Chiffon Yellow** |
+| **Cross-back Longline Bra** | 2 new colourways: **Glacier Blue** and **Chiffon Yellow** |
 | **Tank Top** | 1 new colourway: **greenish grey** (needs a name: **Eucalyptus** ⭐ / Sage / Lichen) |
 | **Stock** | 50 units per colourway → 150 total (assumed per colourway) |
 | **Stock arrives** | First week of October |
@@ -34,7 +41,7 @@
 | **Instagram Stories** | ✅ Main channel | ✅ |
 | **Instagram feed post** | ❌ Not for the new colours | ✅ First feed post: hero image |
 | **Meta ads for the new colours** | ❌ | ✅ Start |
-| **Existing retargeting** | ✅ Keeps running as normal (existing creative) | Swap to new-colour creative |
+| **Existing retargeting** | ❌ No ads in October | Restart at S$8–10/day, Sales objective → PDP |
 | **Email** | ✅ **Existing customers only:** new colours + gift-credit reminder | ✅ Whole list (+ credit P.S. for customers who haven't used it) |
 | **BFT (18 Oct)** | ✅ Sell in person + capture contacts | — |
 
@@ -51,7 +58,7 @@
 
 ## Five tweaks to the plan
 
-1. **Keep existing retargeting running in October.** "No ads" should mean *no new ads for the new colours*, not pausing everything. Retargeting is where conversions actually happen (learning #3). Switching it off for 3 weeks would cost more than the colours gain. It keeps running at the normal level with existing creative until 1 Nov.
+1. **No ads at all in October** (decided 29 Sep). July's reflection logged sub-floor Meta budgets as a "drop", so it's S$8–10/day or nothing. October's Story-link traffic builds the website audience that November's retargeting uses.
 2. **Pin the launch Stories to a Highlight (e.g. "NEW 🤍").** Stories vanish after 24h, and there's no feed post. Without a Highlight, anyone visiting the profile (including from BFT) won't see the new colours at all.
 3. **Every Story links to the product page, never the profile or homepage** (learning #2). Use the link sticker on each colour.
 4. **Email existing customers on listing day: new colours + their gift credit.** Customers already own the cut, so flat shots are enough for them. The credit gives them a reason to buy now, and the new colours are what to spend it on. It works like a discount only for people who already trust you, while the public price stays full. The rest of the list (mostly subscribers who joined for 10% off) hears on 1 Nov.
@@ -63,8 +70,8 @@
 
 | Piece | Colour angle | Hook | Pairs with |
 |---|---|---|---|
-| **Long Line Bra — Glacier Blue** | *"The coolest thing you'll wear in 32°C"* | Built for the SG heat / *Feel the difference* | Nimbus pieces, Eucalyptus tank |
-| **Long Line Bra — Chiffon Yellow** | *"7am East Coast sunrise"* | *From studio to kopi* | Mocha pieces, Eucalyptus tank |
+| **Cross-back Longline Bra — Glacier Blue** | *"Soft blue, steady support"* | *Feel the difference* | Nimbus pieces, Eucalyptus tank |
+| **Cross-back Longline Bra — Chiffon Yellow** | *"7am East Coast sunrise"* | *From studio to kopi* | Mocha pieces, Eucalyptus tank |
 | **Tank — Eucalyptus** | The everyday layer: over either bra, class to kopi | *From studio to kopi* | Both new bras, all existing bottoms |
 
 - **Main outfit story:** *"One tank, two moods"*: tank over Glacier Blue, then over Chiffon Yellow.
@@ -108,7 +115,7 @@
   - warm filter on everything
   - **Check Chiffon Yellow's colour accuracy first.** If it looks washed out, see the fallback below.
 - [ ] **Shopify:**
-  - Add the new colours as **variants of the existing Long Line Bra and Tank**, so the existing model shots and reviews stay on the page.
+  - Add the new colours as **variants of the existing Cross-back Longline Bra and Tank**, so the existing model shots and reviews stay on the page.
   - If they're separate products, add *"Fit shown in [existing colour]: same cut, same fabric."*
   - Add *"Limited run: 50 made"* to each new variant.
 - [ ] **Check the plumbing** (learning #5): pixel firing on the new variants, mobile PDP speed. This matters even without new ads, because the pixel builds the audience you'll retarget from 1 Nov.
@@ -135,7 +142,7 @@
 | # | Frame | Sticker |
 |---|---|---|
 | 1 | Unboxing / all three together: *"Three new colours. We made 50 of each."* | — |
-| 2 | **Glacier Blue** flat lay: *"The coolest thing you'll wear in 32°C"* | Link → PDP |
+| 2 | **Glacier Blue** flat lay: *"Soft blue, steady support"* | Link → PDP |
 | 3 | **Chiffon Yellow** flat lay: *"7am East Coast sunrise"* | Link → PDP |
 | 4 | **Eucalyptus tank** flat lay: *"The layer that goes over everything"* | Link → PDP |
 | 5 | Outfit flat lay: *"One tank, two moods"* | Link → PDP |
@@ -166,7 +173,7 @@ About 4–5 Stories a week, rotating these:
 | **Capture** | QR to IG + email. **Log handles and emails for every buyer** (learning #6). **QR to the PDP** for anyone who wants another colour or size later. |
 | **Content** | **Stand and product only, no members:** rack shots, outfit hangers, the hand-written notes, the setup. Enough for 2–3 Stories. |
 
-**Say this to members at the stand:** *"Brand-new colours, only 50 of each. Same Long Line Bra / Tank you know. The tank goes over the bra. And they're online if you want another colour later."*
+**Say this to members at the stand:** *"Brand-new colours, only 50 of each. Same Cross-back Longline Bra / Tank you know. The tank goes over the bra. And they're online if you want another colour later."*
 
 **Mon 19 Oct:** thank-you DMs to everyone captured · move unsold BFT stock back online · *"thank you BFT"* Story with stand photos.
 
@@ -225,7 +232,7 @@ With no member clips and no creator, **this shoot is the only on-body photo and 
 | **Owned** | Judge.me | Review requests on Oct + BFT orders | Reviews power the launch + mid-Nov push |
 | **Rented** | IG Stories + Highlight | ✅ Main channel | ✅ |
 | **Rented** | IG feed | ❌ No new-colour posts (regular content can continue) | Hero post, 3 carousels, 2 Reels |
-| **Rented** | Meta ads | Existing retargeting only, as normal | New-colour retargeting + optional cold CPC test |
+| **Rented** | Meta ads | ❌ None | New-colour warm retargeting, S$8–10/day, Sales → PDP |
 | **Borrowed** | BFT pop-up | Sell + capture (no filming) | — |
 
 **Not in this plan:** early access / waitlist, filming members, paid UGC creator, 11.11 sale, WhatsApp, Klaviyo, gifting-for-posts, cold Meta as a sales channel.
@@ -236,7 +243,7 @@ With no member clips and no creator, **this shoot is the only on-body photo and 
 
 | Line | Floor | Ceiling |
 |---|---|---|
-| Oct: existing retargeting | *usual Oct envelope, not launch spend* | — |
+| Oct: Meta | S$0 (no ads in October) | — |
 | Meta launch + cold CPC test, 1–8 Nov | $50 | $100 |
 | Meta retargeting, 13–30 Nov (paused 9–12 Nov) | $72 | $126 |
 | BFT pop-up materials | $30 | $50 |
@@ -309,7 +316,7 @@ Everything else amplifies these 5.
 
 1. **Tank colour name**: Eucalyptus, Sage, Lichen or your own? Needed by 7 Oct.
 2. **50 per colourway (150 total)?**
-3. **Fabric per piece**: Long Line Bra on BreezeForm or BreezeLite? Tank on BreezeCool?
+3. **Fabric per piece**: Cross-back Longline Bra on BreezeForm or BreezeLite? Tank on BreezeCool?
 4. **Black Friday: sale or not?**
 5. **Gift credit details:** amount (same for everyone?), how it was issued (Shopify store credit or gift card code), and how many customers have it.
 
@@ -323,5 +330,5 @@ Everything else amplifies these 5.
 | PDP copy for the new variants (fabric-first, "Limited run: 50 made") | `copywriting` |
 | Customer email (10 Oct) + official launch email (1 Nov): **drafted**, see `plans/2026-10-new-colourways-emails.md` | `emails` ✅ |
 | Meta ad creative for 1 Nov (on-model retargeting + cold CPC test) | `ad-creative` + `ads` |
-| Add Long Line Bra + Tank + new colourways to the context file | `product-marketing` |
+| Add Cross-back Longline Bra + Tank + new colourways to the context file | `product-marketing` |
 | October + November Month Overviews in Notion | `monthly-plan` (Notion connector needs authorising first) |

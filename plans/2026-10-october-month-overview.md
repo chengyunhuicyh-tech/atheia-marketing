@@ -1,5 +1,12 @@
 # 📅 October 2026 — Month Overview
 
+> **🔗 Notion is now the source of truth for October (updated 29 Sep):** [📅 October 2026 — Month Overview](https://app.notion.com/p/3ea7e5ebbcd6819f870cd6b1825f3c93).
+> Corrections applied here from the Notion Hub:
+> - Both products are **BreezeLite**: the Cross-back Longline Bra and the Essential Tank. **No cooling language**, which is reserved for BreezeCool.
+> - **No ads in October.** Meta restarts on 1 Nov at S$8–10/day.
+> - The BFT member perk is **BFTFAM15**.
+> - The credit email goes only to **email-subscribed** anniversary-credit holders, with a **20% holdout**.
+
 > **Notion-ready.** Generated with the `monthly-plan` skill, following `references/plan-template.md`.
 > - **Part 1** replaces the content of the duplicated `📅 October 2026 — Month Overview` page.
 > - **Part 2** replaces the content of its `🎯 Campaign Strategy` sub-page.
@@ -18,7 +25,7 @@
 
 ## Theme
 
-**New colours, soft launch.** Three new colourways arrive in week 1: Long Line Bra in **Glacier Blue** and **Chiffon Yellow**, and Tank in **Eucalyptus** (placeholder name), 50 of each.
+**New colours, soft launch.** Three new colourways arrive in week 1: Cross-back Longline Bra in **Glacier Blue** and **Chiffon Yellow**, and Tank in **Eucalyptus** (placeholder name), 50 of each.
 - They go live on Shopify on **Sat 10 Oct**.
 - They're announced through **Instagram Stories only**, plus an email to existing customers that pairs the new colours with a reminder to use their **gift credit**.
 - The **BFT pop-up on Sun 18 Oct** is where people can try them on.
@@ -125,7 +132,7 @@ Everything else amplifies these 5.
 
 | Element | October plan |
 |---|---|
-| **Retargeting** | Keeps running at the normal level with **existing creative** |
+| **Retargeting** | **No ads in October.** Restart 1 Nov at S$8–10/day |
 | **New-colour ads** | None until 1 Nov (model photos) |
 | **Cold** | None |
 | **Destination** | Always the PDP |
@@ -137,14 +144,14 @@ Everything else amplifies these 5.
 | **Sell** | New colours at the front, hung as outfits (tank over bra). Full size run (~15 per colourway held back from online). Usual member perk if applicable. Card reader |
 | **Capture** | QR to IG + email + **product page**. Log handles and emails for **every** buyer |
 | **Content** | Stand, rack, products and notes only. **No filming of members** |
-| **What to say to members** | *"Brand-new colours, only 50 of each. Same Long Line Bra / Tank you know. The tank goes over the bra. And they're online if you want another colour later."* |
+| **What to say to members** | *"Brand-new colours, only 50 of each. Same Cross-back Longline Bra / Tank you know. The tank goes over the bra. And they're online if you want another colour later."* |
 
 ## BFT member-comms asset pack (send to BFT by Mon 12 Oct)
 
 **Asset:** 1 flat-lay graphic (all three colours on Bone Cream) in 1:1 and 9:16.
 
 **Announcement (for BFT to send ~Mon 12 – Wed 14 Oct):**
-> Atheia is back at BFT on **Sun 18 Oct** with three brand-new colours: the Long Line Bra in Glacier Blue and Chiffon Yellow, and the Tank in Eucalyptus. Only 50 made of each. Come try them on after class.
+> Atheia is back at BFT on **Sun 18 Oct** with three brand-new colours: the Cross-back Longline Bra in Glacier Blue and Chiffon Yellow, and the Tank in Eucalyptus. Only 50 made of each. Come try them on after class.
 
 **Reminder (for BFT to send Sat 17 Oct):**
 > Tomorrow after class: Atheia's new colours are at BFT. Full size run on the rack, try-ons welcome. Card payment accepted.

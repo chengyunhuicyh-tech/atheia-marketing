@@ -1,6 +1,13 @@
 # New Colourways — Content Plan (Oct–Nov 2026)
 
-> The detailed content calendar for the Long Line Bra (**Glacier Blue**, **Chiffon Yellow**) and Tank (**Eucalyptus**, placeholder name) launch.
+> **🔗 Notion is now the source of truth for October (updated 29 Sep):** [📅 October 2026 — Month Overview](https://app.notion.com/p/3ea7e5ebbcd6819f870cd6b1825f3c93).
+> Corrections applied here from the Notion Hub:
+> - Both products are **BreezeLite**: the Cross-back Longline Bra and the Essential Tank. **No cooling language**, which is reserved for BreezeCool.
+> - **No ads in October.** Meta restarts on 1 Nov at S$8–10/day.
+> - The BFT member perk is **BFTFAM15**.
+> - The credit email goes only to **email-subscribed** anniversary-credit holders, with a **20% holdout**.
+
+> The detailed content calendar for the Cross-back Longline Bra (**Glacier Blue**, **Chiffon Yellow**) and Tank (**Eucalyptus**, placeholder name) launch.
 > Companion to `plans/2026-10-new-colourways-launch-plan.md` (strategy) and `plans/2026-10-new-colourways-emails.md` (email copy).
 > Built with the **social** skill, following `.agents/product-marketing.md` (voice, visual system, hashtag rotation, production constraints).
 
@@ -40,11 +47,11 @@
 
 | Week | Theme | Stories | Feed | Reels | Email | Ads |
 |---|---|---|---|---|---|---|
-| **Thu 1 – Sun 4 Oct** | Normal week | 3 days (evergreen) | **F1** Fri 2 (optional) | — | — | Existing retargeting |
-| **Mon 5 – Sun 11 Oct** | **Stock lands → tease → soft launch** | **Daily** (teaser Wed–Fri, launch Sat) | — | — | **Customer email Sat 10, 9am** | Existing retargeting |
-| **Mon 12 – Sun 18 Oct** | Launch week + **BFT** | Daily | **F2** Wed 14 (optional) | — | — | Existing retargeting |
-| **Mon 19 – Sun 25 Oct** | BFT recap + **shoot** | 5 days | **F3** Thu 22 (optional) | — | — | Existing retargeting |
-| **Mon 26 Oct – Sat 31 Oct** | Edits + batch production | 3 days (light) + Sat teaser | — | — | — | Existing retargeting |
+| **Thu 1 – Sun 4 Oct** | Normal week | 3 days (evergreen) | **F1** Fri 2 (optional) | — | — | None (no ads in Oct) |
+| **Mon 5 – Sun 11 Oct** | **Stock lands → tease → soft launch** | **Daily** (teaser Wed–Fri, launch Sat) | — | — | **Customer email Sat 10, 9am** | None (no ads in Oct) |
+| **Mon 12 – Sun 18 Oct** | Launch week + **BFT** | Daily | **F2** Wed 14 (optional) | — | — | None (no ads in Oct) |
+| **Mon 19 – Sun 25 Oct** | BFT recap + **shoot** | 5 days | **F3** Thu 22 (optional) | — | — | None (no ads in Oct) |
+| **Mon 26 Oct – Sat 31 Oct** | Edits + batch production | 3 days (light) + Sat teaser | — | — | — | None (no ads in Oct) |
 | **Sun 1 – Sun 8 Nov** | **Official launch** | Daily | **N1** Sun 1 · **N2** Thu 5 | **R1** Tue 3 · **R2** Sat 7 | **Whole list, Sun 1** | **New-colour ads live** |
 | **Mon 9 – Sun 15 Nov** | **11.11 quiet** → reviews | Light (Mon–Thu), then back | (optional Tue 10) · **N3** Sun 15 | — | — | Minimum 9–12, back from 13 |
 | **Mon 16 – Sun 22 Nov** | Ways to wear + fit proof | 5 days | **N4** Wed 18 · **N5** Sun 22 | **R3** Fri 20 | — | + review creative |
@@ -147,7 +154,7 @@ Pin **NEW 🤍** first.
 
 | # | Frame | Text | Sticker |
 |---|---|---|---|
-| 1 | Glacier Blue flat lay, full reveal | *1 of 3. Long Line Bra in Glacier Blue* | — |
+| 1 | Glacier Blue flat lay, full reveal | *1 of 3. Cross-back Longline Bra in Glacier Blue* | — |
 | 2 | Text frame | *We made 50 of each.* | — |
 | 3 | Text frame | *Tomorrow, 10am.* | **Countdown sticker** (people can tap for a reminder) |
 
@@ -158,8 +165,8 @@ Pin **NEW 🤍** first.
 | # | Frame | Text | Sticker |
 |---|---|---|---|
 | 1 | All three together (flat lay) | *Three new colours. We made 50 of each.* | — |
-| 2 | Glacier Blue flat lay | *Long Line Bra in Glacier Blue. The coolest thing you'll wear in 32°C* | Link → Glacier variant |
-| 3 | Chiffon Yellow flat lay | *Long Line Bra in Chiffon Yellow. 7am East Coast sunrise* | Link → Chiffon variant |
+| 2 | Glacier Blue flat lay | *Cross-back Longline Bra in Glacier Blue. Soft blue, steady support* | Link → Glacier variant |
+| 3 | Chiffon Yellow flat lay | *Cross-back Longline Bra in Chiffon Yellow. 7am East Coast sunrise* | Link → Chiffon variant |
 | 4 | Eucalyptus flat lay | *Tank in Eucalyptus. The layer that goes over everything* | Link → Eucalyptus variant |
 | 5 | Tank-over-bra outfit flat lay | *One tank, two moods* | Link → collection |
 | 6 | Fabric macro / S6 video | *Same fabric. Same fit you know. New colours.* | — |
@@ -232,8 +239,8 @@ Pin **NEW 🤍** first.
 | # | Frame | Text | Sticker |
 |---|---|---|---|
 | 1 | Hero on-model: three together | *Three new colours.* | — |
-| 2 | Glacier Blue on model | *Long Line Bra in Glacier Blue* | Link → variant |
-| 3 | Chiffon Yellow on model | *Long Line Bra in Chiffon Yellow* | Link → variant |
+| 2 | Glacier Blue on model | *Cross-back Longline Bra in Glacier Blue* | Link → variant |
+| 3 | Chiffon Yellow on model | *Cross-back Longline Bra in Chiffon Yellow* | Link → variant |
 | 4 | Eucalyptus tank on model | *Tank in Eucalyptus* | Link → variant |
 | 5 | Tank-over-bra outfit | *One tank, two moods* | Link → collection |
 | 6 | Share of N1 | *New post* | — |
@@ -354,7 +361,7 @@ Pin **NEW 🤍** first.
 >
 > [Hashtag set B]
 
-*This quietly sets up the Long Line Bra launch without showing the new colours.*
+*This quietly sets up the Cross-back Longline Bra launch without showing the new colours.*
 
 ---
 
@@ -364,21 +371,21 @@ Pin **NEW 🤍** first.
 | Slide | Image | Overlay |
 |---|---|---|
 | 1 | Hero: all three on models, tank layered, SG location | **Three new colours.** |
-| 2 | Glacier Blue Long Line Bra | *The coolest thing you'll wear in 32°C* |
-| 3 | Chiffon Yellow Long Line Bra | *7am East Coast sunrise* |
+| 2 | Glacier Blue Cross-back Longline Bra | *Soft blue, steady support* |
+| 3 | Chiffon Yellow Cross-back Longline Bra | *7am East Coast sunrise* |
 | 4 | Eucalyptus Tank | *The layer that goes over both* |
 | 5 | Tank over bra (outfit) | *One tank, two moods* |
-| 6 | Fabric / band detail | *Same [fabric]. Same fit you know.* |
+| 6 | Fabric / band detail | *Same BreezeLite. Same fit you know.* |
 | 7 | Text + an October customer quote (if you have one) | *We made 50 of each.* Link in bio |
 
 **Caption:**
 > Three new colours, now on the site.
 >
-> Long Line Bra in Glacier Blue: the coolest thing you'll wear in 32°C.
-> Long Line Bra in Chiffon Yellow: a 7am East Coast sunrise.
+> Cross-back Longline Bra in Glacier Blue: soft blue, steady support.
+> Cross-back Longline Bra in Chiffon Yellow: a 7am East Coast sunrise.
 > Tank in Eucalyptus: the layer that goes over both.
 >
-> Same cuts, same [fabric] you already know. We made 50 of each 🤍
+> Same cuts, same BreezeLite you already know. We made 50 of each 🤍
 >
 > Free shipping with no minimum until Tuesday, 10am. Link in bio.
 >
@@ -401,7 +408,7 @@ Pin **NEW 🤍** first.
 **Caption:**
 > Why a long line?
 >
-> More coverage, so it works as a top from class to kopi. A longer band that stays put through squats and reaches. And [support level] from [fabric].
+> More coverage, so it works as a top from class to kopi. A longer band that stays put through squats and reaches. And [support level] from BreezeLite.
 >
 > Now in Glacier Blue and Chiffon Yellow. Between sizes? DM us and we'll help ☀️
 >
@@ -509,7 +516,7 @@ Specs: 9:16, 15–20 sec, CapCut, trending audio picked in-app, **text overlay m
 | 8–14s | Kopi / MRT / void deck | **8:15am kopi** |
 | 14–20s | Close-up outfit + end card | *No outfit change needed* |
 
-**Caption:** *7am class. 8:15am kopi. No outfit change needed ☀️ Long Line Bra in Chiffon Yellow + Tank in Eucalyptus.*
+**Caption:** *7am class. 8:15am kopi. No outfit change needed ☀️ Cross-back Longline Bra in Chiffon Yellow + Tank in Eucalyptus.*
 
 ### R3 · Fri 20 Nov · "The squat test" (15s) · Set B
 
@@ -537,8 +544,8 @@ All ads go to the **PDP** (variant URL). Retargeting audiences = IG engagers, si
 | Code | Format | Creative | Primary text | Headline | Live |
 |---|---|---|---|---|---|
 | **AD1** | Carousel ad, 3 cards (4:5) | One card per colour, each links to its own variant PDP | *Three new colours. Same fit you know. We made 50 of each.* | *Glacier Blue / Chiffon Yellow / Eucalyptus* | 1 Nov → |
-| **AD2** | Video 9:16 | R1 cut | *One tank, two moods. New colours of the Long Line Bra + Tank.* | *Only 50 made of each* | 1 Nov → |
-| **AD3** | Static 4:5 | Review quote over an on-model image | *"[review quote]": [first name], on the [colour]* | *Built for SG heat* | 15 Nov → |
+| **AD2** | Video 9:16 | R1 cut | *One tank, two moods. New colours of the Cross-back Longline Bra + Tank.* | *Only 50 made of each* | 1 Nov → |
+| **AD3** | Static 4:5 | Review quote over an on-model image | *"[review quote]": [first name], on the [colour]* | *Feel the difference* | 15 Nov → |
 | **Cold test** (optional) | Video 9:16 | R1 or AD1's hero card | Same as AD2 | *No brand markup* | 1–8 Nov, S$3–5/day. **Judge on CPC + followers only** |
 
 **Before AD1 goes live:** check whether the winning high-CTR Crop Tee ad was a single image, a carousel or a video, and copy that **format** first (learning #4).
@@ -602,7 +609,7 @@ See the full shot list in the launch plan. The clips the Reels depend on are:
 ## 13. Open inputs this plan still needs
 
 1. **Tank colour name**, needed by Thu 8 Oct (teaser).
-2. **Fabric** for the Long Line Bra and Tank (N1, N2 captions).
+2. **Fabric** for the Cross-back Longline Bra and Tank (N1, N2 captions).
 3. **Price range** for F2 (only use numbers you can back up).
 4. **Black Friday: sale or not?** This affects the optional 10 Nov post and 27 Nov.
 5. **Stock-landed date**, which sets when the teaser starts.

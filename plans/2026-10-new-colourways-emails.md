@@ -1,5 +1,12 @@
 # New Colourways — Email Drafts (Oct–Nov 2026)
 
+> **🔗 Notion is now the source of truth for October (updated 29 Sep):** [📅 October 2026 — Month Overview](https://app.notion.com/p/3ea7e5ebbcd6819f870cd6b1825f3c93).
+> Corrections applied here from the Notion Hub:
+> - Both products are **BreezeLite**: the Cross-back Longline Bra and the Essential Tank. **No cooling language**, which is reserved for BreezeCool.
+> - **No ads in October.** Meta restarts on 1 Nov at S$8–10/day.
+> - The BFT member perk is **BFTFAM15**.
+> - The credit email goes only to **email-subscribed** anniversary-credit holders, with a **20% holdout**.
+
 > Companion to `plans/2026-10-new-colourways-launch-plan.md` and `plans/2026-10-new-colourways-content-plan.md`.
 > The credits don't expire soon, so there's no expiry reminder. Credit reminders ride along as a P.S. in the regular emails.
 > Written with the **emails** skill and the brand voice in `.agents/product-marketing.md`: plain-text founder voice, max 2 emojis, none in subject lines, currency as `S$`.
@@ -54,8 +61,8 @@ Exit: Credit redeemed → drop out of the credit P.S. in Email 2
 >
 > Three new colours landed this week, and you're hearing about them first:
 >
-> - **Long Line Bra in Glacier Blue** → [link to PDP]
-> - **Long Line Bra in Chiffon Yellow** → [link to PDP]
+> - **Cross-back Longline Bra in Glacier Blue** → [link to PDP]
+> - **Cross-back Longline Bra in Chiffon Yellow** → [link to PDP]
 > - **Tank in Eucalyptus** → [link to PDP]
 >
 > Same cuts and same fabric you already know, just new colours. We only made 50 of each.
@@ -99,7 +106,7 @@ Exit: Credit redeemed → drop out of the credit P.S. in Email 2
 - B: Glacier Blue, Chiffon Yellow, Eucalyptus
 - C: One tank, two moods
 
-**Preview text:** New colours of the Long Line Bra and Tank. Free shipping with no minimum till Tuesday.
+**Preview text:** New colours of the Cross-back Longline Bra and Tank. Free shipping with no minimum till Tuesday.
 
 **Body:**
 
@@ -107,13 +114,13 @@ Exit: Credit redeemed → drop out of the credit P.S. in Email 2
 >
 > Three new colours are now on the site:
 >
-> - **Long Line Bra in Glacier Blue**: the coolest thing you'll wear in 32°C → [link]
-> - **Long Line Bra in Chiffon Yellow**: 7am East Coast sunrise → [link]
+> - **Cross-back Longline Bra in Glacier Blue**: soft blue, steady support → [link]
+> - **Cross-back Longline Bra in Chiffon Yellow**: 7am East Coast sunrise → [link]
 > - **Tank in Eucalyptus**: the layer that goes over both → [link]
 >
 > [IMAGE: hero on-model shot, tank layered over a bra]
 >
-> Same [fabric] you know, built for SG heat. We made 50 of each, and [honest stock line, e.g. *"Glacier Blue is already under 30"*, only if true].
+> Same soft BreezeLite you know. We made 50 of each, and [honest stock line, e.g. *"Glacier Blue is already under 30"*, only if true].
 >
 > **[ See the new colours ]**
 >

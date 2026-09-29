@@ -1,8 +1,10 @@
 # New Colourways — Email Drafts (Oct–Nov 2026)
 
-> Companion to `plans/2026-10-new-colourways-launch-plan.md`. Written with the **emails** skill and the brand voice in `.agents/product-marketing.md`: plain-text founder voice, max 2 emojis, none in subject lines, currency as `S$`.
+> Companion to `plans/2026-10-new-colourways-launch-plan.md` and `plans/2026-10-new-colourways-content-plan.md`.
+> The credits don't expire soon, so there's no expiry reminder. Credit reminders ride along as a P.S. in the regular emails.
+> Written with the **emails** skill and the brand voice in `.agents/product-marketing.md`: plain-text founder voice, max 2 emojis, none in subject lines, currency as `S$`.
 >
-> **Placeholders to fill:** `[First name]` (Shopify merge tag), `[Founder name]`, `[S$X]` credit amount, `[expiry date]`, `[how to use]`, and the tank colour name (**Eucalyptus** is a placeholder).
+> **Placeholders to fill:** `[First name]` (Shopify merge tag), `[Founder name]`, `[S$X]` credit amount, `[how to use]`, and the tank colour name (**Eucalyptus** is a placeholder).
 
 ---
 
@@ -10,17 +12,16 @@
 
 ```
 Sequence: New colourways + gift credit
-Trigger: Stock listed (Sat 10 Oct), official launch (Sun 1 Nov), credit expiry
+Trigger: Stock listed (Sat 10 Oct), official launch (Sun 1 Nov)
 Goal: Existing customers use their gift credit on the new colours
-Length: 2 emails + 1 conditional reminder
-Exit: Credit redeemed → drop out of the reminder P.S. / Email 3
+Length: 2 emails
+Exit: Credit redeemed → drop out of the credit P.S. in Email 2
 ```
 
 | # | Send | Audience | Job |
 |---|---|---|---|
 | **1** | **Sat 10 Oct, 9am** (1h before Stories) | Existing customers with credit | New colours are here, and here's your credit to spend on them |
 | **2** | **Sun 1 Nov, 10am** | Whole list. Customers with unused credit get a version with a P.S. | Official launch |
-| **3** | **[expiry date − 4 days]** *(only if the credit expires)* | Customers who **still** haven't used their credit | Your credit expires soon |
 
 ### Why these choices
 
@@ -61,7 +62,7 @@ Exit: Credit redeemed → drop out of the reminder P.S. / Email 3
 >
 > [IMAGE: three colours flat lay]
 >
-> You also still have **[S$X] in Atheia credit**. [How to use: e.g. *"It's already on your account, just log in with this email at checkout."* / *"Use code XXXX at checkout."*] [It's valid until [expiry date].]
+> You also still have **[S$X] in Atheia credit**. [How to use: e.g. *"It's already on your account, just log in with this email at checkout."* / *"Use code XXXX at checkout."*]
 >
 > The tank goes over either bra, if you're wondering how to spend it 🤍
 >
@@ -123,38 +124,9 @@ Exit: Credit redeemed → drop out of the reminder P.S. / Email 3
 
 **Version B P.S. (customers with unused credit only):**
 
-> P.S. You've still got **[S$X] in Atheia credit** on your account. [How to use.] [Valid until [expiry date].]
+> P.S. You've still got **[S$X] in Atheia credit** on your account. [How to use.]
 
 **CTA:** "See the new colours" → new-colours collection page
-
----
-
-## Email 3 — Credit expiry reminder *(only if the credit expires)*
-
-**Send:** 4 days before expiry
-**Segment:** Customers who **still** haven't used their credit
-**Format:** Plain text only, very short
-
-**Subject:** Your [S$X] credit expires on [day]
-**Preview text:** Just a heads-up, so it doesn't go to waste.
-
-**Body:**
-
-> Hi [First name],
->
-> Just a heads-up: your **[S$X] Atheia credit** expires on **[expiry date]**.
->
-> [How to use.]
->
-> If you haven't seen them yet, we've got three new colours (Glacier Blue, Chiffon Yellow and Eucalyptus), and there aren't many left in some sizes. [Only if true.]
->
-> **[ Use my credit ]**
->
-> [Founder name]
-
-**CTA:** "Use my credit" → new-colours collection page
-
-The expiry is what makes people act here, because nobody likes letting money go to waste. Keep the tone helpful rather than pushy.
 
 ---
 
@@ -163,7 +135,7 @@ The expiry is what makes people act here, because nobody likes letting money go 
 | Metric | Where | What "good" looks like |
 |---|---|---|
 | Open rate: Email 1 (customers) | Shopify Email | Should be well above the list's usual ~2%. Customers are a warm segment |
-| Credit redemption rate | Shopify (gift card / store credit report) | % of credit holders who redeem by 1 Nov, then by expiry |
+| Credit redemption rate | Shopify (gift card / store credit report) | % of credit holders who redeem by 1 Nov, then by 30 Nov |
 | Orders + revenue from each email | Shopify Email + UTMs | Track by email |
 | New-colour share of credit orders | Shopify orders | Shows whether the credit is pulling people to the new colours |
 | Average basket above credit value | Shopify orders | Shows whether customers are spending more than the credit (e.g. tank + bra) |
@@ -173,7 +145,6 @@ The expiry is what makes people act here, because nobody likes letting money go 
 ## Open questions (needed before Email 1 is finalised)
 
 1. **Credit amount**: the same for every customer, or does it vary?
-2. **Expiry date**: this decides whether Email 3 exists and when it goes out.
-3. **How the credit was issued**: Shopify store credit (auto-applies when logged in) or gift card code? This changes the "how to use" line.
-4. **How many customers have credit?** Pop-up 1 buyers were never captured, so they can't be emailed.
-5. **Which founder signs the emails?**
+2. **How the credit was issued**: Shopify store credit (auto-applies when logged in) or gift card code? This changes the "how to use" line.
+3. **How many customers have credit?** Pop-up 1 buyers were never captured, so they can't be emailed.
+4. **Which founder signs the emails?**

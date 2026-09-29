@@ -85,7 +85,6 @@
 | **Sun 25 Oct** | Photoshoot + BTS Stories (models and set only) |
 | **Thu 29 Oct** | Edit deadline. Model photos into PDPs |
 | **Sun 1 Nov** | **Official launch:** feed post, carousel, Reel, email to the whole list (credit P.S. for unredeemed customers), ads start, free shipping with no minimum for 48h |
-| **[expiry − 4 days]** | *Only if the credit expires:* last reminder to customers who haven't used it |
 | **Mon 9 – Thu 12 Nov** | Quiet period (11.11 discount noise): Stories only, minimum ad spend |
 | **Sun 15 – Sun 29 Nov** | Reviews + low-stock push |
 
@@ -115,7 +114,7 @@
 - [ ] **Check the plumbing** (learning #5): pixel firing on the new variants, mobile PDP speed. This matters even without new ads, because the pixel builds the audience you'll retarget from 1 Nov.
 - [ ] **Customer email set-up:**
   - Build a Shopify segment of **existing customers with unused gift credit**.
-  - Confirm the credit amount and expiry.
+  - Confirm the credit amount.
   - **Place a test order using the credit on a new-colour variant.** If redeeming it is confusing, the email won't convert.
   - Add UTMs to the email links (`utm_campaign=newcolours_oct26_customers`) so you can see credit redemptions and orders from the email.
 
@@ -221,7 +220,7 @@ With no member clips and no creator, **this shoot is the only on-body photo and 
 | Type | Channel | Oct (soft launch) | Nov (official launch) |
 |---|---|---|---|
 | **Owned** | Shopify (PDPs) | Listed with flat shots + existing fit shots | Model photos |
-| **Owned** | Email | Existing customers: new colours + gift credit (10 Oct) | Whole list (1 Nov), with a credit P.S. for unredeemed customers · credit expiry reminder if relevant · optional late-Nov email only if BF runs |
+| **Owned** | Email | Existing customers: new colours + gift credit (10 Oct) | Whole list (1 Nov), with a credit P.S. for unredeemed customers · optional late-Nov email only if BF runs |
 | **Owned** | Email flows | New colours appear in Welcome / Abandoned cart | Swap in model images |
 | **Owned** | Judge.me | Review requests on Oct + BFT orders | Reviews power the launch + mid-Nov push |
 | **Rented** | IG Stories + Highlight | ✅ Main channel | ✅ |
@@ -312,7 +311,7 @@ Everything else amplifies these 5.
 2. **50 per colourway (150 total)?**
 3. **Fabric per piece**: Long Line Bra on BreezeForm or BreezeLite? Tank on BreezeCool?
 4. **Black Friday: sale or not?**
-5. **Gift credit details:** amount (same for everyone?), expiry date, how it was issued (Shopify store credit or gift card code), and how many customers have it.
+5. **Gift credit details:** amount (same for everyone?), how it was issued (Shopify store credit or gift card code), and how many customers have it.
 
 ---
 
@@ -320,10 +319,9 @@ Everything else amplifies these 5.
 
 | Deliverable | Skill |
 |---|---|
-| Teaser + 7-frame launch Story sequence + October daily Stories | `social` |
+| Full content calendar: every Story, carousel, Reel and ad creative, Oct–Nov: **drafted**, see `plans/2026-10-new-colourways-content-plan.md` | `social` ✅ |
 | PDP copy for the new variants (fabric-first, "Limited run: 50 made") | `copywriting` |
-| Customer email (10 Oct) + official launch email (1 Nov) + credit expiry reminder: **drafted**, see `plans/2026-10-new-colourways-emails.md` | `emails` ✅ |
-| 1 Nov feed post, carousel captions, Reel script | `social` |
+| Customer email (10 Oct) + official launch email (1 Nov): **drafted**, see `plans/2026-10-new-colourways-emails.md` | `emails` ✅ |
 | Meta ad creative for 1 Nov (on-model retargeting + cold CPC test) | `ad-creative` + `ads` |
 | Add Long Line Bra + Tank + new colourways to the context file | `product-marketing` |
 | October + November Month Overviews in Notion | `monthly-plan` (Notion connector needs authorising first) |
